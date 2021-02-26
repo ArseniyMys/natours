@@ -1,6 +1,4 @@
 node_modules
-css/fonts
-css/icon-font.css
 css/style.comp.css
 css/style.concat.css
 css/style.prefix.css
